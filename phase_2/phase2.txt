@@ -1,0 +1,9 @@
+Your report should:
+
+start by recalling the problem and its motivation
+provide a comprehensive description of relevant studies published in renowed journals and conferences.
+present your so far activities subdivided into a theoretical design decisions along with their justifications and b) into experiments and results (if any). I expect to see visuals, figures, and tables with numerical results.
+conclude with a summary of the work done so far, results that have been obtained and steps to be taken from now on.
+Late submissions will not be accepted, so plan your submission carefully.
+
+The report will be evaluated in terms of: comprehensiveness, suitability/justification level of the chosen methods for the task, amount of progress achieved and presentation/drafting/clarity of the report.
